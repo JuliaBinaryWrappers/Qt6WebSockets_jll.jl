@@ -1,0 +1,244 @@
+[[Qt6WebSockets]]
+arch = "aarch64"
+git-tree-sha1 = "746374d1c61a67776bee0b0ae5b87d8656dbfbbd"
+os = "macos"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "b9c65e907cc59a6ae737b6a55364259c61561db065870e42fa0d9fd965c0d49b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.aarch64-apple-darwin.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+git-tree-sha1 = "c7bd89b6f1d6bcf2badfe8d0858c74fbd773ea24"
+os = "macos"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "ceaad07f355d25521d0d3a25de174a40510aa6f3acf54309a6f0cd79efd902f5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-apple-darwin.tar.gz"
+[[Qt6WebSockets]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9000ae378b18d860f94ad2529e34bf1507ca5200"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "098885b96df7b40095f6ffce4b51798ba0e7b814aed93b232dc0f1d660b3857b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f14337239ae8660f4e0e3eac44801e86314b245"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "942917e24df2af3860e7eaaf39db506aaf6b3af4004ee8e9e7466bb3f5a20e6d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7a08ad920c25882dc09ff9f531133edf973de83"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "42a65d981e70513d72295869e1f0223340bcf92491647ff15cd866dcc03cc158"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc5882afb3fef560a7c0ac5d3ea9c4f00579c560"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "d0b9b699a804746f1bca74410f88c4529af9e21724a67a6ee7aef207489b27d7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e157a46810231a0c657a58955fb1f7654dc3c7f4"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "649ad364ffeae57f763b7b38063133c4e918dbc86dc9625e7caa7d26abc28f25"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5a9d032ad6c8f3c0fc760637e48baede193d4f8"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "6b688aa2d845f9b88b717ee20fdcba1859ea2410c970151437395dd4785e3eb5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d755a5e237fe0c07486c1010c328eb203d012ed8"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "458a4a2b75edb7b3a14d8c6331f96a7bfb2bcb683bb85c9cc97900579e8f8f1e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cacd6fbfddd63f450691a444c1435546954f0466"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "3519271d85c142caeb15c1b3ad35b015344034886fe7fde00c2909791b73b5b2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2a4474c82162fe23aee9908bde06aa4f2d4cad1"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "d31ab6e981d1856163cd01e553258269e5c82f8e589058395658a9bf53e549a7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ada39a1a45e364d21203d462888700b2db269ee"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "c9224ed185ea3fe0c797a7538860a1334bc635fda71a8c365005bb4839aafa9c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "65ed401e357406e7fae67fe336e45bf41c06c64b"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "1489a7fa03555a5c8c022d97bd7ed312093befc43019848b0b0a39bb45ce744d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7210a875936af5757d8980b9788722f72e377ae8"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "1fc87ba65d8454395cab3ec20cf163946612d07a0ff5881d0cde3c8d66ce6019"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d674bb79d6d871dd6fc6c67d21ee167ef6f445a8"
+os = "windows"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "0bbe834b735fcdcee8d3fbeba37efe4a4a66b515aab0257a675e3c220d308298"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "908478ff3f3722cf7208f2be3ce5322574634b7f"
+os = "windows"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "2936defe1214b42df7eb884696ddb9bab045619cbe0aa62dc18f17581b71226d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9fc633305c8c8509ed0a0c33a8ae0cb8cc54dba9"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "3cafccb3f5519796b490ddf50dacc1795418bb0d42685cf70358653e58739c56"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c040298b6f29b26eb96ca3cc3f4e917230923df"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "3b23870281ac9ff5fd6115285b7606935f6b05c2f47d4571849d8bdf250de7cc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa7fa7c0f2c7fe52b5b0417457547878e628b237"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "c0ede022dac62e9354408d2e3cb60b4c69b53ed120ae7cceec70ea243a2d7e2b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6304c8c585439165e64e137b21c939a99079300"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "f8c4df26af89673024cd86d20c5083f677c92b5f4aca849f711ca3bf1e61fe79"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d0d21555d3839d3e9643a498fa72c6b96ed13972"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "de4095cbb4a04816f17a29b7f5c675c12054ddf68e3ec0b4adb500800ee7fefc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f652f6caac7122bbcd0b17511dffab0320fb1892"
+libc = "musl"
+os = "linux"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "dab0ebc4a4b8dae72671ee1a9a705a7c58718a3abdcd2ad3403e813dc6eb1619"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+git-tree-sha1 = "e2da55c219c2f4ae41069c1a4e3282b7920cb631"
+os = "freebsd"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "100eff6d27e6a5e0fd84a587c95c0570d7f51066a3254fc1c7230adfba1b8da8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47b79bb1011b2dfe03860c1abdd37346f5b664cf"
+os = "windows"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "b78d7fcdbf8a90e4b0a98bf351ffb831ce9f30e4fdb31b31c5f9713bb181a8e0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6WebSockets]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a14966d91c91c029fc5a8f42eda9febbb1bb9af"
+os = "windows"
+
+    [[Qt6WebSockets.download]]
+    sha256 = "7f1c390dd72af8578d6c053720f812fea50f4e3fc339b64b165233694005bbeb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6WebSockets_jll.jl/releases/download/Qt6WebSockets-v6.5.2+0/Qt6WebSockets.v6.5.2.x86_64-w64-mingw32-cxx11.tar.gz"
